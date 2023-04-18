@@ -4,7 +4,7 @@
 ### <div align="center">I'm Dogukan, a full-time full-stack freelance developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
-- 🌱 I’m currently learning AngularJS and Figma.  
+- 🌱 I’m currently learning React and Typescript.  
   
 
 - ❓ Ask me about anything related to MSSQL and C#.  
