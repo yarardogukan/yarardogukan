@@ -1,7 +1,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
   
 
-### <div align="center">I'm Dogukan, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
+### <div align="center">I'm Dogukan, a full-time full-stack freelance developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
 - 🌱 I’m currently learning AngularJS and Figma.  
