@@ -2,9 +2,10 @@
 
  [![](https://visitcount.itsvg.in/api?id=yarardogukan&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
-- 🎓 I am studying Duzce University Computer Engineering department.
+- 🎓 I graduated from Düzce University, Department of Computer Engineering.
 - 👩🏻‍💻 I am currently working on [CLR Soft](https://clrsoft.com/)
-- 💌 You can reach me on [yarardogukan@gmail.com](mailto:yarardogukan@gmail.com) <br>
+- 💌 You can reach me on [yarardogukan@gmail.com](mailto:yarardogukan@gmail.com)
+- 💌 You can reach me on [dogukanyarar@clrsoft.com](mailto:dogukanyarar@clrsoft.com) <br>
 
 <h4 align="center">You could contact me using those links.</h4>
 <p align="center">
